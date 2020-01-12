@@ -25,4 +25,17 @@ nav ul{
 .hero{
 	min-height: 90vh;
 	background-image: url(silver-and-black-laptop-computer-1229861.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center; 
+	padding: 1rem;
+}
+
+button{
+	margin: 1rem;
+	padding: 1rem;
 }
