@@ -21,3 +21,8 @@ nav ul{
 	justify-content: space-around;
 	font-size: 1.25rem;
 }
+
+.hero{
+	min-height: 90vh;
+	background-image: url(silver-and-black-laptop-computer-1229861.jpg);
+}
